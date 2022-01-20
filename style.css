@@ -1,0 +1,44 @@
+body{
+    background-image: url('pexel1.jpg');
+    color:wheat;
+    
+}
+
+.left{
+    position: absolute;
+    top: 22px;
+    left: 34px;
+   
+   display: inline-block;
+}
+
+.left img{
+    width: 70px;
+
+}
+.mid{
+    
+    display: block;
+    width: 30%;
+    margin: 5% auto;
+}
+.right{
+    position: absolute;
+    top: 22px;
+    right: 34px;
+    display: inline-block;
+    float: right;
+   
+}
+
+.nav-item {
+    color: white;
+}
+
+.container{
+    border:  solid white;
+    width: 33%;
+    padding: 2% 2%;
+    margin: 15% 20%;
+}
+
